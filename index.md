@@ -1,5 +1,3 @@
-## Autistic Mutual Aid Society Edinburgh
-
 ### Helping autistic people to help each other
 
 We are an autistic-led group based in Edinburgh: the Autistic Mutual Aid Society Edinburgh (AMASE).  We welcome the Scottish Government's latest public consultation on its Scottish Strategy for Autism, but we have some serious concerns about the way it has been conducted, particularly in its accessibility and efforts to include autistic people.
