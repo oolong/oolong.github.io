@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Autistic Mutual Aid Society Edinburgh
 
-You can use the [editor on GitHub](https://github.com/oolong/AMASE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Helping autistic people to help each other
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are an autistic-led group based in Edinburgh: the Autistic Mutual Aid Society Edinburgh (AMASE).  We welcome the Scottish Government's latest public consultation on its Scottish Strategy for Autism, but we have some serious concerns about the way it has been conducted, particularly in its accessibility and efforts to include autistic people.
 
-### Markdown
+We have created a list of suggestions that we'd like to highlight regarding this and future consultations, that we hope the Scottish Government will take onboard when assessing the results of this consultation, and when planning the next one.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Events or consultation requesting the involvement or attendance of autistic people should be planned with autistic people's organisations (APOs).  APOs with local knowledge should be used whenever possible for 'live' events.
+* The venues for the consultations should be fully accessible, for physical and sensory needs.  Venues with better acoustics, even the booking of several smaller rooms, could help enormously in this respect.
+* Buildings already providing autism support (such as the One Stop Shops), or those used by APOs, could help to fulfill this need.
+* Specific consultations aimed at autistic individuals may work better than consulting with parents, carers and autistic adults as one group.
+* Consultations should be recording the number of autistic responses, both in online questionnaires and live events (rough estimates for this consultation were at around 10%, which is far too low).  Not doing this makes it impossible to know whether the specific interests of autistic adults and families have been represented.
+* Other demographics, such as whether the consulted parents/carers were responsible for autistic adults or children, or whether the parents themselves were also autistic, is also important data that should be recorded.
+* The locations of live consultations should be made as accessible to as much of Scotland as possible.  Again, better coordination with local APOs can help enormously here.
+ 
+We believe that practising the idea of 'nothing about us without us' in events and consultations relating to autistic populations is vital here.  Autistic individuals should always be specifically consulted, and consultations should be made accessible taking into account autistic needs.  We believe the latest consultation has fallen short in this regard, but we hope that there can be a positive dialogue with the autistic community in Scotland in taking the strategy forward.
 
-```markdown
-Syntax highlighted code block
+#### Signatories:
 
-# Header 1
-## Header 2
-### Header 3
+Sonya Hallett & Fergus Murray, representing AMASE (Autistic Mutual Aid Society Edinburgh)  Contact email: AMASE@oolong.co.uk
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oolong/AMASE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kabie Brook, for and on behalf of ARGH (Autism Rights Group Highland)
