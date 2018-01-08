@@ -16,4 +16,4 @@ We believe that practising the idea of 'nothing about us without us' in events a
 
 Sonya Hallett & Fergus Murray, representing AMASE (Autistic Mutual Aid Society Edinburgh)  Contact email: AMASE@oolong.co.uk
 
-Kabie Brook, for and on behalf of ARGH (Autism Rights Group Highland)
+! Kabie Brook, for and on behalf of [ARGH (Autism Rights Group Highland)](http://www.arghighland.co.uk/)
