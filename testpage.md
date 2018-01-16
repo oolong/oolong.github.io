@@ -22,3 +22,4 @@
     {% endfor %}
 </ul>
 {% endcapture %}{{ html | strip_newlines | replace:' ','' | replace:' ','' | replace:' ',' ' }}
+{% include navigation.html context="/" %}
