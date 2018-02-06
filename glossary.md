@@ -2,7 +2,11 @@
 
 * Neurodivergent
 
-Having a neurology that differs significantly from the average.
+Having a brain that differs significantly from the average (for example, autistic, dyslexic or ADHD).
+
+* Neurotypical
+
+Having a more typical brain; belonging to the neurological majority. Compare *allistic*, which simply means 'not autistic'.
 
 * Neurodiversity
 
@@ -12,14 +16,17 @@ The *neurodiversity paradigm* accepts neurodivergences such as autism and ADHD a
 
 The *neurodiversity movement* is the political manifestation of this perspective, pushing for full civil rights and inclusion of neurodivergent people.
 
-
 * Medical model of disability
 
-Disability is the result of individual impairments which prevent people from fully partaking in activities others would take for granted.
+Disability is the result of individual impairments which prevent people from fully partaking in activities others would take for granted. The *deficit model* of autism is an example of this, viewing autism in terms of deficits in the autistic person.
 
 * Social model of disability
 
 Disability is the result of interactions between individual differences and social context. A more accommodating society makes disabilities less disabling.
+
+* Double empathy problem
+
+There is a common misconception that autistic people lack empathy, but in fact people in general have difficulty empathising with those who are very different from themselves. Research shows that allistic people find it at least as difficult to empathise with autistics as vice versa. 
 
 * Executive function
 
