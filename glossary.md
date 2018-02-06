@@ -34,7 +34,7 @@ The psychological ability to get things done.
 
 * Autistic inertia
 
-Inertia is resistance to a change in state. That can mean difficulty getting started, but it also includes difficulty changing tasks or stopping once you've started.
+Inertia is resistance to a change in state. That can mean difficulty getting started, but it also includes difficulty changing tasks or stopping once you've started. This is one of the reasons autistic people can find sudden changes of plan distressing.
 
 * Perseveration
 
@@ -42,15 +42,19 @@ The uncontrollable repetition of actions, words or thoughts.
 
 * Monotropism
 
-The cognitive style used by autistic people, in which attention tends to be tightly focused - like a torch beam, rather than a lantern light. This helps to explain context-blindness, autistic inertia (heavily-invested attention is harder to shift), the atypical connections between ideas made by autistic people, the difficulty processing body language alongside spoken language, and other features of autism.
+The cognitive style used by autistic people, in which attention tends to be tightly focused - like a torch beam, rather than a lantern light. This helps to explain context-blindness, autistic inertia (heavily-invested attention is harder to shift), the atypical connections between ideas made by autistic people, the difficulty processing body language alongside spoken language, the intensity of sensory experiences, and other features of autism.
 
 * Person-first language
 
-Putting the person first when describing people, as in 'a person with autism'. This is supposed to de-emphasise the condition, and is a style preferred by most parents and professionals.
+Putting the person first when describing people, as in 'a person with autism'. This is supposed to de-emphasise the condition, and is a style preferred by most professionals.
 
 * Identity-first language
 
-Putting the identity first, as in 'autistic person'. This is supposed to emphasise that a person cannot be separated from their autism, and is a style preferred by most autistic people.
+Putting the identity first, as in 'autistic person'. This is supposed to emphasise that a person cannot be separated from their autism, and is a style preferred by a large majority of autistic people.
+
+* Sensory overload
+
+Many autistic people have trouble tuning out sensory inputs. This can make bright, noisy, smelly environments exhausting and disorienting, which can often lead to the following.
 
 * Meltdown
 
@@ -63,3 +67,7 @@ A response to stress and sensory overload in which an autistic person loses some
 * Stimming
 
 Self-stimulating behaviour. Includes things like flapping, rocking and fidgeting, often used by autistic people as a form of self-regulation. Sometimes associated with anxiety, most autistics will also have the urge to stim when excited. Suppressing stims can lead to stress and tiredness, and potentially meltdowns or shutdowns.
+
+* Special interest
+
+A passion. 
