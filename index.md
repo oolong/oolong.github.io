@@ -8,3 +8,4 @@ We are an autistic-led group based in Edinburgh. All members are on the autistic
 * See our [autistic glossary](/glossary)
 
 [Follow us on Twitter at @AmasEdin](https://twitter.com/AmasEdin)
+or email info@amase.org.uk
