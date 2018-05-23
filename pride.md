@@ -16,3 +16,5 @@ Official [Autistic Pride Day](https://en.wikipedia.org/wiki/Autistic_Pride_Day) 
 The three-word address for the location is ['cool.punks.active' (map link)](https://map.what3words.com/cool.punks.active).
 
 [Here is a Facebook event for this picnic](https://www.facebook.com/events/446091332496480/).
+
+[Organised by AMASE](/)
