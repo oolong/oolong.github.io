@@ -17,4 +17,21 @@ The three-word address for the location is ['cool.punks.active' (map link)](http
 
 [Here is a Facebook event for this picnic](https://www.facebook.com/events/446091332496480/).
 
+More on autism and autistic pride:
+
+# What Is Autism?
+Autism is a profound cognitive difference, meaning that autistic people experience and interact with the world differently from our peers.
+
+We tend to experience what we're focusing on very intensely, often to the exclusion of other signals. This can cause social difficulties, especially with people who are not used to autistic ways of being, and other problems to do with the world being set up for people whose brains don't work like us.
+
+The autistic spectrum is both broad and deep - the autistic population is highly diverse, and autism manifests differently from person to person. It is not a linear scale running from 'high functioning' to 'low functioning', which are unhelpful terms. Instead, autism varies in several different ways - sensory differences, levels of anxiety, social skills and executive functions all vary both from person to person and from time to time. Autism often co-occurs with intellectual disabilities and other neurological differences including epilepsy and dyspraxia, but these are not universal.
+
+# Why Pride?
+Autism is often classed as as disorder, but it is not at all clear that autistic thinking is any more disordered than neurotypical thought. We see autism as part of the natural variability of human minds and brains - neurodiversity - not as something that needs to be cured or hidden.
+
+Autistic pride is a response to a world that stigmatises autistic ways of being, and is intolerant of difference in general. Like other pride movements, it is about celebrating diversity in the face of a society that too often treats one way of being as superior to others.
+
+It is also a chance for members of the autistic community to get together with like-minded people in an autistic space.
+
+
 [Organised by AMASE](/)
