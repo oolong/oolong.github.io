@@ -22,7 +22,7 @@ More on autism and autistic pride:
 # What Is Autism?
 Autism is a profound cognitive difference, meaning that autistic people experience and interact with the world differently from our peers.
 
-We tend to experience what we're focusing on very intensely, often to the exclusion of other signals. This can cause social difficulties, especially with people who are not used to autistic ways of being, and other problems to do with the world being set up for people whose brains don't work like us.
+We tend to experience what we're focusing on very intensely, often to the exclusion of other signals. This can cause social difficulties, especially with people who are not used to autistic ways of being, and other problems to do with the world being set up for people whose brains don't work like ours.
 
 The autistic spectrum is both broad and deep - the autistic population is highly diverse, and autism manifests differently from person to person. It is not a linear scale running from 'high functioning' to 'low functioning', which are unhelpful terms. Instead, autism varies in several different ways - sensory differences, levels of anxiety, social skills and executive functions all vary both from person to person and from time to time. Autism often co-occurs with intellectual disabilities and other neurological differences including epilepsy and dyspraxia, but these are not universal.
 
