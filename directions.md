@@ -1,6 +1,6 @@
 # Public Transport:
 1. From Waverley Station, exit onto Princes Street via the Waverley Steps exit.
-![Scott Monument]("PT img 1 scott monument.jpeg")
+![Scott Monument](PT img 1 scott monument.jpeg)
 2. Turn left and walk along Princes Street towards the Scott Monument. You should cross one road and be walking along with Princes Street Gardens on your left. (image 1 - scott monument)
 3. Just after the Scott Monument should be bus stop PR.
 4. Take Lothian buses 11, 16, or Stagecoach 102 six stops to Level Street, next to Pekoe Tea. (image 2 - level street stop)
