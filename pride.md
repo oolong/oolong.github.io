@@ -12,8 +12,7 @@ Note that the guest list is hidden, but that doesn't necessarily stop Facebook f
 
 Official [Autistic Pride Day](https://en.wikipedia.org/wiki/Autistic_Pride_Day) is the 18th of June every year. Note that this is not specifically Autistic LGBT Pride, just Autistic Pride, though if you are also proud of your sexuality and gender, that's definitely 100% fine.
 
-
-The three-word address for the location is ['cool.punks.active' (map link)](https://map.what3words.com/cool.punks.active).
+The three-word address for the location is ['cool.punks.active' (map link)](https://map.what3words.com/cool.punks.active). Here are [detailed directions, with photos](directions.html) and here's a [Google Maps link with directions](https://bit.do/eapp2018). Both assume you're travelling from Waverley.
 
 [Here is a Facebook event for this picnic](https://www.facebook.com/events/446091332496480/).
 
