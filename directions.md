@@ -1,5 +1,7 @@
 These are directions to the location of the first [Edinburgh Autistic Pride Picnic](pride.html).
 
+If you are unsure or lost at any point, please contact [@AMASEdin on Twitter](https://twitter.com/AmasEdin), [the organisers via the Facebook event](https://www.facebook.com/events/446091332496480/453730401732573) or else email us at info@amase.org.uk
+
 # Public Transport:
 1. From Waverley Station, exit onto Princes Street via the Waverley Steps exit.
 2. Turn left and walk along Princes Street towards the Scott Monument. You should cross one road and be walking along with Princes Street Gardens on your left.
