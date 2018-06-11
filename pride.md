@@ -1,26 +1,31 @@
 ![](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/33154414_10102586118919361_6426537123800678400_n.jpg?_nc_cat=0&oh=1184b1745bdbdb2764d1a948f57ca965&oe=5B77627D)
 
-WHEN: Sunday 17th June, Midday-6pm
+**What**: The first Edinburgh Autistic Pride Picnic. 
 
-WHERE: Prince Albert Victor Sundial, the Meadows
+**Why**: To celebrate autistic identity and the autistic community. 
 
-WHAT: Informal picnic gathering to celebrate the autistic community and autistic identity (see more details below including detailed travel directions)
+**When**: Sunday 17th June, midday-6pm. Official [Autistic Pride Day](https://en.wikipedia.org/wiki/Autistic_Pride_Day) is the 18th of June every year, but we decided to celebrate on the weekend before. 
 
-The first Edinburgh Autistic Pride Picnic will be happening on Sunday the 17th of June, in the Meadows, on the grass near the Prince Albert sundial - the big stone monument near the trees at the west side of the Meadows.
+**Where**: [Prince Albert Victor Sundial](https://bit.do/eapp2018), the Meadows (the big stone monument near the trees at the west side of the Meadows). [Follow this link for detailed travel directions](directions.html).
 
-If the weather is wet, there's some shelter at the nearby Pavilion Cafe; if it gets really dire, there are other nice places we could decamp to nearby.
+**What to bring**: foods and drinks to share, stimtoys, picnic blankets, smiles, sunshines, coats (just in case).
 
-Bring picnic foods and drinks, stimtoys and such (we will also bring some things). Feel free to invite all your autistic friends, and bring along non-autistic friends as well. We're expecting it to be a pretty low-key event.
+**Who**: This event is organised by [AMASE](/), but it's just an informal gathering in a park. Feel free to invite your autistic friends, non-autistic friends, friendly dogs and grannies.
 
-At least one small, friendly dog will be in attendance.
+**How many people will be there?**
+It is always hard to tell with these things. Perhaps around 30-60 lovely people, but that is just a guess, and they won't all be there at once. We're told that last year's London Autistic Pride Day Picnic peaked at 42 people, and their Facebook event showed about twice as many as ours planning on coming. At least one small friendly dog will be in attendance. 
 
-Note that the guest list is hidden, but that doesn't necessarily stop Facebook from telling anyone you're coming, so if you're not out as autistic to your Facebook friends, you might prefer to just save the event rather than saying you're attending.
+**But what if it is wet?**
+There is some shelter at the nearby Pavilion Cafe. 
 
-Official [Autistic Pride Day](https://en.wikipedia.org/wiki/Autistic_Pride_Day) is the 18th of June every year. Note that this is not specifically Autistic LGBT Pride, just Autistic Pride, though if you are also proud of your sexuality and gender, that's definitely 100% fine.
+**But what if it gets really wet?**
+It won't be, you are bringing your sunshine aren't you?  If it is really wet, there are other pleasant places we could decamp to nearby. Follow #AutisticPrideEdinburgh for updates, or contact us by [email](info@amase.org.uk) or [social media](https://twitter.com/AmasEdin).
 
-The three-word address for the location is ['cool.punks.active' (map link)](https://map.what3words.com/cool.punks.active). Here are [detailed directions, with photos](directions.html) and here's a [Google Maps link with directions](https://bit.do/eapp2018). Both assume you're travelling from Waverley.
+[Here is a Facebook event for this picnic](https://www.facebook.com/events/446091332496480/). Regarding Facebook: The guest list is hidden, but that doesn't necessarily stop Facebook from telling anyone you're coming. Therefore if you're not 'out' as autistic to your Facebook friends, you might prefer to save the event rather than saying that you are attending.
 
-[Here is a Facebook event for this picnic](https://www.facebook.com/events/446091332496480/).
+Note that this event is not specifically Autistic LGBT Pride, it is simply Autistic Pride. However if you are also proud of your sexuality and gender, that’s definitely 100% fine. In fact, we encourage it. [LGBTQIA+ Pride Edinburgh](http://prideedinburgh.org.uk/) is the day before.
+
+**How to get there**:  We are delighted to find that the three-word address for the location is ['cool.punks.active' (map link)](https://map.what3words.com/cool.punks.active). Here are [detailed directions, with photos](directions.html) and here's a [Google Maps link with directions](https://bit.do/eapp2018). Both assume you're travelling from Waverley.
 
 More on autism and autistic pride:
 
@@ -37,6 +42,3 @@ Autism is often classed as as disorder, but it is not at all clear that autistic
 Autistic pride is a response to a world that stigmatises autistic ways of being, and is intolerant of difference in general. Like other pride movements, it is about celebrating diversity in the face of a society that too often treats one way of being as superior to others.
 
 It is also a chance for members of the autistic community to get together with like-minded people in an autistic space.
-
-
-[Organised by AMASE](/)
