@@ -1,5 +1,9 @@
 ![](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/33154414_10102586118919361_6426537123800678400_n.jpg?_nc_cat=0&oh=1184b1745bdbdb2764d1a948f57ca965&oe=5B77627D)
 
+WHEN: Sunday 17th June, Midday-6pm
+WHERE: Prince Albert Victor Sundial, the Meadows
+WHAT: Informal picnic gathering to celebrate the autistic community and autistic identity (see more details below including detailed travel directions)
+
 The first Edinburgh Autistic Pride Picnic will be happening on Sunday the 17th of June, in the Meadows, on the grass near the Prince Albert sundial - the big stone monument near the trees at the west side of the Meadows.
 
 If the weather is wet, there's some shelter at the nearby Pavilion Cafe; if it gets really dire, there are other nice places we could decamp to nearby.
