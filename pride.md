@@ -4,7 +4,7 @@
 
 **Why**: To celebrate autistic identity and the autistic community. 
 
-**When**: Sunday 17th June, midday-6pm. Official [Autistic Pride Day](https://en.wikipedia.org/wiki/Autistic_Pride_Day) is the 18th of June every year, but we decided to celebrate on the weekend before. 
+**When**: Sunday 17th June, midday-6pm. Drop in any time, and leave whenever you like. Official [Autistic Pride Day](https://en.wikipedia.org/wiki/Autistic_Pride_Day) is the 18th of June every year, but we decided to celebrate on the weekend before. 
 
 **Where**: [Prince Albert Victor Sundial](https://bit.do/eapp2018), the Meadows (the big stone monument near the trees at the west side of the Meadows). [Follow this link for detailed travel directions](directions.html).
 
