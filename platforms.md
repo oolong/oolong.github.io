@@ -1,4 +1,4 @@
-# On Platforms and Ideas
+# On Education, Openness and Giving a Platform
 
 Recently a number of autistic people and allies wrote to [Lighthouse Books](http://lighthousebookshop.com/), a lovely radical bookshop in Edinburgh who have hosted a number of [Ragged University](https://www.raggeduniversity.co.uk/) talks in the past, to object to a talk that had been scheduled, titled '[Autism; The Plot Against Consciousness, Cognition and Language](https://www.meetup.com/raggeduniversity/events/252228696/)'. Basically what happened was that the bookshop owners read the description of the talk and said ohhhh, no, that is not the kind of bookshop we are. They put up an [excellent post](https://www.facebook.com/LighthouseBks/posts/262531610964446) explaining their decision, including the reassurance that
 > 'we would like to state that autistic and neurologically divergent readers will always be welcomed and supported at Lighthouse Bookshop. Apologies to any readers who were alarmed by the event listing and its fleeting association with us - we hope that our alternative Autism Workshop goes some way to rectifying things.' 
