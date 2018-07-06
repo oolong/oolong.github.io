@@ -17,7 +17,7 @@ I'm not really inclined to get into a detailed demolition of exactly what's wron
 * Autism is not an epidemic, and the rise in incidence of autism diagnoses can be fully explained by better understanding and the way that's manifested in broader diagnostic criteria
 * It's not at all clear that it's more common in boys, as opposed to clinicians being worse at identifying it in girls and women
 * The one study that claimed to find elevated aluminium in autistic brains has [grave methodological flaws](https://scientistabe.wordpress.com/2017/11/27/neurosciences-aluminum-does-the-latest-paper-from-exley-show-a-link-between-asd-and-aluminum/)
-* Autism is not caused by vaccines, seriously, they checked, there is extensive science on this
+* Autism is not caused by vaccines, seriously, they checked, there is [extensive science](https://scholar.google.com/scholar?q=autism%20vaccines%20meta-analysis&btnG=Search&as_sdt=800000000001&as_sdtp=on) on this
 
 The description of the talk, in short, is couched in scientific language, but it clearly rests on unsound science. This means it is *not knowledge*. It's pretty much the opposite of knowledge: the blurb for this event contains *misinformation*, to a degree that suggests the entire talk rests on it, which to my mind makes it inappropriate content for something which bills itself as knowledge sharing.  Alex's response to criticisms of this sort is as follows.
 
