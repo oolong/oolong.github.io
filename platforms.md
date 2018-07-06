@@ -28,3 +28,5 @@ I don't want to overstate the case, because yes, scientists have been wrong abou
 When the pseudoscience in question includes claims that are both harmful to public health (anti-vaccine panic has led to multiple measles deaths) and offensive to the group of people who are the subject of the talk, so much the worse.
 
 Still, this doesn't mean that these ideas should never be given a platform. It would be a different story if this was explicitly set up as a venue for people to air any old pet theory they care to spout; or as a discussion, with at least one expert on hand to marshall facts and dispel misapprehensions - ideally an autistic autism expert, but at least someone who's either autistic or an expert in a relevant discipline. Without that, an event like this does not qualify as public education. Public education is an excellent goal, and I should say that I enjoyed and was impressed by the one Ragged University event I went to a few years ago. However, there are limits on the extent to which an institution can be agnostically open without risking providing out-and-out miseducation.
+
+ - Fergus of [AMASE](http://amase.org.uk/)
