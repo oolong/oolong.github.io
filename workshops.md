@@ -1,10 +1,10 @@
 [AMASE](/) run workshops introducing neurodiversity and the autistic experience to people who might not otherwise get to hear much about these from an autistic perspective.
 
-The following are coming up imminently:
+The most recent workshops were:
 
-# [Building Understanding & Dispelling Myths](http://lighthousebookshop.com/event/autism-workshop-by-amase/) at Lighthouse Books, 10th of July at 7:30 pm - 8:30 pm
+## [Building Understanding & Dispelling Myths](http://lighthousebookshop.com/event/autism-workshop-by-amase/) at Lighthouse Books, 10th of July at 7:30 pm - 8:30 pm
 
-# [Understanding Autism from an Autistic Point of View](http://edinburghafb.org/Workshops.html) at the Edinburgh Anarchist Feminist Book Fair at the Augustine United Church, 21st of July
+## [Understanding Autism from an Autistic Point of View](http://edinburghafb.org/Workshops.html) at the Edinburgh Anarchist Feminist Book Fair at the Augustine United Church, 21st of July
 
 This is an autism awareness workshop with a difference. Designed and delivered by autistic people, it provides an opportunity to hear from those with first-hand experience.This session will explore the concept of neurodiversity (the idea that different cognitive styles are part of natural human variation) and what it means to be in the neurological minority.
 
